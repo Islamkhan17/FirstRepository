@@ -1,2 +1,5 @@
 Globus
+<<<<<<< HEAD
 qwerty
+=======
+>>>>>>> d7fe929e3b061e214022ebf9a72d87bdcb68825a
