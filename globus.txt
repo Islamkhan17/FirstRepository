@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Globusss
 qwerty
+=======
+Globus
+>>>>>>> 20722ed92fe0c551a7bdeae3b53c3a932b7f60a2
